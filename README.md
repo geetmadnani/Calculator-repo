@@ -1,6 +1,6 @@
 # 📱 Calculator App
 
-## A simple and user-friendly calculator app built using Java with a graphical user interface (GUI). This project performs basic arithmetic operations like addition, subtraction, multiplication, and division. Designed for learning and demonstration purposes.
+## A simple and user-friendly calculator app built using Java with a graphical user interface (GUI). This project performs basic arithmetic operations like addition, subtraction, multiplication, and division. Designed for learning and demonstration purposes.thanks
 
 ### 💡Features
 	•	Intuitive GUI using Java Swing
